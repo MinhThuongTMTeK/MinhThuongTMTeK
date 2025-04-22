@@ -10,17 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00E5FF&vCenter=true&multiline=true&center=true&width=700&lines=Hi,+I'm+Tran+Minh+Thuong."/>
 </h1>
 
-
-<!-- 🌈 Waving gradient header -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=200§ion=header&text=🚀%20Tran%20Minh%20Thuong%20🚀&fontSize=36&fontColor=ffffff&animation=twinkling" />
-</p>
-
-<!-- 🤖 Typing effect with tagline -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00E5FF&vCenter=true&multiline=true¢er=true&width=700&lines=Hi,+I'm+Tran+Minh+Thuong.;IoT+%26+AIoT+Innovator+|+Building+Smarter+Systems"/>
-</h1>
-
 <!-- 💡 Modern badge icons -->
 <p align="center">
   <img src="https://img.shields.io/badge/IoT%20Engineer-blue?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
