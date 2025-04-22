@@ -10,12 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DBDE&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=I'm+Tran+Minh+Thuong;Edge+AI+%7C+Embedded+Systems+%7C+Cloud+Integration" />
 </h1>
 
-
 <!-- 🌌 Realistic Tech Banner -->
 <p align="center">
   <img src="https://github.com/user-attachments/assets/d5925cfd-e850-4ad1-9ec2-ce369678e18d" width="800" alt="3D Banner" />
 </p>
-
 
 <!-- Tech Badge Showcase - Modern Style -->
 <p align="center">
