@@ -88,3 +88,12 @@
 <div align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800" />
 </div>
+
+<p align="center">
+  <img src="https://media.tenor.com/XEusLQm4k1EAAAAC/cyberpunk.gif" width="300"><br>
+  <img src="https://img.shields.io/static/v1?label=Thanks&message=for+visiting!&color=29a19c&style=for-the-badge">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
+</p>
