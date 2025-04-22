@@ -7,8 +7,13 @@
 
 <!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&vCenter=true&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong+-+Automation+Engineer;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&vCenter=true&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" />
 </h1>
+
+<!-- 🌌 Realistic Tech Banner -->
+<p align="center">
+  <img src="./A_3D-rendered_digital_image_showcases_an_IoT_(Inte.png" width="800" alt="Realistic Tech Lab Banner"/>
+</p>
 
 
 <!-- Tech Badge Showcase - Modern Style -->
