@@ -88,7 +88,7 @@
 ## 🌐 Connect with Me
 
 - 🌐 **Portfolio**: [TranMinhThuong.com](https://myweb-tmt.vercel.app/)
-- 💼 **LinkedIn**: [Tran Minh Thuong](https://www.linkedin.com/in/tranminhthuong) *(Update with your actual link)*
+- 💼 **LinkedIn**: [Tran Minh Thuong](https://www.linkedin.com/in/tranminhthuong) 
 - 📧 **Email**: [tranminhthuong08082003@gmail.com](mailto:tranminhthuong08082003@gmail.com)
 - 🌍 **Facebook**: [Tran Minh Thuong](https://www.facebook.com/tranminh.thuong) *(Update with correct link)*
 - 🐦 **X**: [Your X Handle](#) *(Add if applicable)*
