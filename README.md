@@ -12,7 +12,7 @@
 
 <!-- 🌌 Realistic Tech Banner -->
 <p align="center">
-  <img src="./A_3D-rendered_digital_image_showcases_an_IoT_(Inte.png" width="800" alt="Realistic Tech Lab Banner"/>
+  <img src="![image](https://github.com/user-attachments/assets/d5925cfd-e850-4ad1-9ec2-ce369678e18d)"/>
 </p>
 
 
