@@ -7,7 +7,7 @@
 
 <!-- Dynamic Multi-line Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DBDE&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Building+the+Future+of+Smart+Technology;Edge+AI+%7C+Embedded+Systems+%7C+Cloud+Integration;Creating+Intelligence+at+the+Edge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DBDE&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=I'm+Tran+Minh+Thuong" />
 </h1>
 
 <!-- Tech Badge Showcase - Modern Style -->
