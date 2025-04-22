@@ -7,7 +7,9 @@
 
 <!-- 🤖 Hiệu ứng đánh máy -->
 <h1 align="center">
+  
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00E5FF&vCenter=true&multiline=true&center=true&width=700&lines=Hi,+I'm+Tran+Minh+Thuong;Embedded+Systems+%7C+IoT+%7C+AIoT+Developer;Tech+is+the+future,+and+I'm+building+it."/>
+  
 </h1>
 
 <!-- 💡 Icon badge hiện đại -->
