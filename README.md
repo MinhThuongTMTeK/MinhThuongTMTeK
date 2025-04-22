@@ -7,11 +7,7 @@
 
 <!-- 🤖 Hiệu ứng đánh máy -->
 <h1 align="center">
-  
-  <img src="https://readme-typing-svg.demolab.com?
-font=JetBrains+Mono&weight=600&pause=1000&color=00E5FF&vCenter=true&multiline=true&center=true&width=700&lines=Hi,+I'm+Tran+Minh+Thuong;Embedded+Systems+%7C+IoT+%7C+AIoT+Developer;Tech+is+the+future,+and+I'm+build
-ing+it."/>
-  
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00E5FF&vCenter=true&multiline=true&center=true&width=700&lines=Hi,+I'm+Tran+Minh+Thuong;Embedded+Systems+%7C+IoT+%7C+AIoT+Developer;Tech+is+the+future,+and+I'm+building+it."/>
 </h1>
 
 <!-- 💡 Icon badge hiện đại -->
@@ -81,8 +77,13 @@ ing+it."/>
 
 ## 🔁 Contribution Snake + Footer
 
+<p align="center">
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"><br>
+  <img src="https://img.shields.io/badge/IoT-Engineer-blue?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded-Coder-green?style=for-the-badge&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-Developer-purple?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+</p>
+
 <div align="center">
-  <img src="https://github.com/TranMinhThuong/TranMinhThuong/raw/output/github-contribution-grid-snake.svg" />
-  <br><br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0072ff&height=140&section=footer"/>
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800" />
 </div>
