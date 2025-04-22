@@ -7,14 +7,12 @@
 
 <!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&vCenter=true&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong+-+Automation+Engineer;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" alt="Typing animation" />
 </h1>
 
-<!-- 🌌 Realistic Tech Banner -->
-<p align="center">
-  <img src="![image](https://github.com/user-attachments/assets/d5925cfd-e850-4ad1-9ec2-ce369678e18d)"/>
-</p>
 
+<!-- 🌌 Realistic Tech Banner -->
+<img src="https://github.com/user-attachments/assets/d5925cfd-e850-4ad1-9ec2-ce369678e18d" width="800" alt="3D Banner" />
 
 <!-- Tech Badge Showcase - Modern Style -->
 <p align="center">
