@@ -18,13 +18,6 @@
   <a href="#"><img src="https://img.shields.io/badge/Cloud_Solutions-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white"/></a>
 </p>
 
-<!-- Tech Animation -->
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHkzZnlramtwZnFzbnhqcm9iZ25wcTQ2Mm91NXdnNG9namU3d2R2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EAOTD2L0qyvhm/giphy.gif" width="450"/>
-</div>
-
----
-
 ## 👨‍💻 About Me
 
 <img align="right" width="300" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHJkdGl5N2ltMmpvcGV0bHFmODNwMjI4aW9qOGRsMnd5MHd1bmlibyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif" />
