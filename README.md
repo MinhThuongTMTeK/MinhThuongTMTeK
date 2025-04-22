@@ -1,7 +1,7 @@
 <!-- Tran Minh Thuong -->
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+GitHub;IoT+and+Embedded+Systems+Engineer&center=true&size=30">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello+World!;Welcome+to+my+GitHub;Tran+Minh+Thuong&center=true&size=30">
 </h1>
 
 <p align="center">
