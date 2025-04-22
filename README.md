@@ -1,50 +1,49 @@
 <!-- Tran Minh Thuong - Futuristic IoT | AIoT GitHub Profile -->
 
-<!-- 🌈 Gradient Header Wave -->
+<!-- 🌈 Hiệu ứng sóng gradient mở đầu -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=🚀%20Tran%20Minh%20Thuong%20🚀&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- 🤖 Typing Animation -->
+<!-- 🤖 Hiệu ứng đánh máy -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&vCenter=true&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&pause=1000&color=00E5FF&vCenter=true&multiline=true&center=true&width=700&lines=Hi,+I'm+Tran+Minh+Thuong."/>
 </h1>
 
-<!-- 💡 Icon Badges -->
+
+<!-- 💡 Icon badge hiện đại -->
 <p align="center">
   <img src="https://img.shields.io/badge/IoT%20Engineer-blue?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
   <img src="https://img.shields.io/badge/AIoT%20Developer-purple?style=for-the-badge&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RealTime%20Coder-orange?style=for-the-badge&logo=clockify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cyber-Future-00ffee?style=for-the-badge&logo=cloudflare&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Cloud%20Integration-Azure-0078D4?style=for-the-badge&logo=azure-devops&logoColor=white"/>
 </p>
 
-<!-- 🌌 Tech Futuristic GIF -->
+<!-- 🌌 GIF nền tech -->
 <div align="center">
-  <img src="https://media.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif" width="600"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="600"/>
 </div>
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🔌 Passionate about **Smart Devices**, **Embedded AI**, and **Connected Systems**
-- 🧠 Building real-time systems using **C/C++**, **Embedded Python**, **TinyML**
-- ⚙️ Strong in **STM32, ESP32, Raspberry Pi, MQTT, BLE, LoRa**
-- 🤖 Exploring the edge of **AIoT + Cybernetic Intelligence**
+💡 I'm an **IoT & AIoT Developer** blending hardware with smart intelligence  
+🧠 Keen on developing **edge-AI** for smarter, real-time embedded systems  
+📟 Fluent in **STM32, ESP32, Raspberry Pi, LoRa, BLE, AI on the edge**  
+🧰 Experienced in **RTOS, MQTT, TinyML, TensorFlow Lite**
 
 ---
 
 ## 🛠️ Tech Toolbox
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github,stm32,docker,azure,vercel,tensorflow" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,arduino,raspberrypi,linux,vscode,git,github,stm32,azure,vercel,docker" />
 </p>
 
-<!-- 🔧 Extra badges -->
 <p align="center">
   <img src="https://img.shields.io/badge/TinyML-TensorFlow_Lite-yellow?style=flat-square&logo=tensorflow&logoColor=orange"/>
-  <img src="https://img.shields.io/badge/MQTT-Cloud-green?style=flat-square&logo=cloudflare&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Edge%20AI-blueviolet?style=flat-square&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cloud-MQTT-green?style=flat-square&logo=cloudflare&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Edge-AI-blueviolet?style=flat-square&logo=nvidia&logoColor=white"/>
 </p>
 
 ---
@@ -53,10 +52,9 @@
 
 | 🚀 Project | ⚙️ Tech | 🔗 Link |
 |-----------|---------|--------|
-| 🏭 **Smart Factory Monitoring** | STM32, OLED, LoRa, TinyML | `Coming Soon` |
-| 🏡 **Home Automation** | ESP32, Node-RED, MQTT, Cloud | `Coming Soon` |
-| 💓 **Health Tracker** | BLE, Arduino Nano 33 BLE Sense | `Coming Soon` |
-| 🔐 **Smart Lock System** | ESP32-CAM + Face Recognition | `Coming Soon` |
+| **Smart Factory Monitoring** | STM32, LoRa, OLED, TinyML | Coming Soon |
+| **Home Automation Dashboard** | ESP32, MQTT, Node-RED | Coming Soon |
+| **Wearable Health Tracker** | BLE, Arduino Nano 33 BLE Sense | Coming Soon |
 
 ---
 
@@ -69,20 +67,27 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Contact & Connect
 
-- 🌍 **Portfolio:** [TranMinhThuong.com](https://myweb-tmt.vercel.app/)
+- 🌐 **Portfolio:** [TranMinhThuong.com](https://myweb-tmt.vercel.app/)
 - 💼 **LinkedIn:** [Tran Minh Thuong](https://www.linkedin.com)
 - 📧 **Email:** tranminhthuong08082003@gmail.com
-- 📘 **Facebook:** [Facebook Profile](https://www.facebook.com/trannminh.thuongg)
+- 🌍 **Facebook:** [Facebook Profile](https://www.facebook.com/trannminh.thuongg)
 
 ---
 
-## 🔁 Snake Animation + Footer
+## 🔁 Contribution Snake + Footer
 
 <p align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800"/>
+  <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="80"><br>
+  <img src="https://img.shields.io/badge/IoT-Engineer-blue?style=for-the-badge&logo=raspberrypi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Embedded-Coder-green?style=for-the-badge&logo=arm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C/C++-Developer-purple?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 </p>
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" width="800" />
+</div>
 
 <p align="center">
   <img src="https://media.tenor.com/XEusLQm4k1EAAAAC/cyberpunk.gif" width="300"><br>
