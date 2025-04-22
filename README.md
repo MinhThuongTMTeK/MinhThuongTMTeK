@@ -7,7 +7,7 @@
 
 <!-- Dynamic Multi-line Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DBDE&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=I'm+Tran+Minh+Thuong" />
+  <img src="![biaYTB](https://github.com/user-attachments/assets/36f05ed5-b8b2-44f7-a8d7-670f830f2d72)" />
 </h1>
 
 <!-- Tech Badge Showcase - Modern Style -->
