@@ -7,7 +7,7 @@
 
 <!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong+-+Automation+Engineer;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00DBDE&center=true&vCenter=true&multiline=true&random=false&width=600&height=80&lines=Building+the+Future+of+Smart+Technology;Edge+AI+%7C+Embedded+Systems+%7C+Cloud+Integration;Creating+Intelligence+at+the+Edge" />
 </h1>
 
 
