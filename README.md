@@ -1,13 +1,13 @@
-<!-- Tran Minh Thuong - IoT & AIoT Engineering Portfolio -->
+<!-- Tran Minh Thuong - Futuristic IoT | AIoT GitHub Profile -->
 
-<!-- Animated Header with Tech Theme -->
+<!-- 🌈 Gradient Header Wave -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3a1c71,50:d76d77,100:ffaf7b&height=250&section=header&text=Tran%20Minh%20Thuong&desc=IoT%20%26%20AIoT%20Engineer&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=30&descAlignY=50&descSize=20" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,100:0072ff&height=240&section=header&text=🚀%20Tran%20Minh%20Thuong%20🚀&fontSize=42&fontColor=ffffff&animation=twinkling" />
 </p>
 
-<!-- Dynamic Multi-line Typing Animation -->
+<!-- 🤖 Typing Animation -->
 <h1 align="center">
-  <img src="![biaYTB](https://github.com/user-attachments/assets/36f05ed5-b8b2-44f7-a8d7-670f830f2d72)" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00FFF0&vCenter=true&multiline=true&center=true&width=700&lines=👋+Hi,+I'm+Tran+Minh+Thuong;💡+IoT+%7C+AIoT+%7C+Embedded+Dev;🚀+Let's+connect+technology+and+the+future!" />
 </h1>
 
 <!-- Tech Badge Showcase - Modern Style -->
